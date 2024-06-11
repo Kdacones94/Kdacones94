@@ -7,7 +7,7 @@ A huge departure from past choices. I’m currently learning to be patient and l
 
 ### What Fuels Me
 
-    I have a pretty weird set of interests that haven't presented me with a pathway for a career utilizing them with my work:
+I have a pretty weird set of interests that haven't presented me with a pathway for a career utilizing them with my work:
 
         - Public Policy/Law
         - Data Management
@@ -16,6 +16,7 @@ A huge departure from past choices. I’m currently learning to be patient and l
         - Open Data for Constituents
         - A Desire to Give Back to My Community
 
+Outside of that I am eager to start to change my relationship with open source development by going from consuming the incredible free tools and resources to maintaining and contributing to those same tools. 
 
 
 - 📫 How to reach me kyledaconespam@icould.com
