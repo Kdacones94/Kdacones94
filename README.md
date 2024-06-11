@@ -18,6 +18,30 @@ I have a pretty weird set of interests that haven't presented me with a pathway 
 
 Outside of that I am eager to start to change my relationship with open source development by going from consuming the incredible free tools and resources to maintaining and contributing to those same tools. 
 
+## Currently Working On 
+
+> Learning new technologies and focusing on rebuilding my foundational skills to not be as domain specific
+
+### Learning New Skills
+
+### Topics & Technologies
+
+| Name of Topics   |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+    - Automation Of Productivity Tools
+    - Python
+    - System Design & Software Development Patterns
+    - Data Engineering
+    - Data Science 
+    - DevOps CI/ Development Setup
+    - 
+
+#### Projects 
+
 
 - 📫 How to reach me kyledaconespam@icould.com
 - 😄 Pronouns: He/Him/His
