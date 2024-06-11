@@ -26,15 +26,13 @@ Outside of that I am eager to start to change my relationship with open source d
 
 ### Topics & Technologies
 
-| Name of Topics   |
+| Names   | Of            | Technologies |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
+| Automation Of Productivity Tools      |  Python |             |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
-    - Automation Of Productivity Tools
-    - Python
-    - System Design & Software Development Patterns
+
     - Data Engineering
     - Data Science 
     - DevOps CI/ Development Setup
