@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kyle Dacones
 - 🌱 I’m currently learning to be patient and let my natural interests and passions drive my learning/professional development. 
 - 😁 Personal Creed: **Seek Discomfort**
-| In Practice: I Focus On Learning That Moves Me Towards My Values
+| In Practice | 
+----- I Focus On Learning That Moves Me Towards My Values
 - 📫 How to reach me kyledaconespam@icould.com
 - 😄 Pronouns: He/Him/His
 
