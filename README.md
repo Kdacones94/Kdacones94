@@ -1,6 +1,9 @@
 ## Who I Am/ Background
 
-    I’m Kyle Dacones, a hobbyist trying to take something that I enjoy turn into something that translates into professional opportunities. A huge departure from past choices. I’m currently learning to be patient and let my natural interests and passions drive my learning/professional development. 
+I’m Kyle Dacones, a hobbyist trying to take something that I enjoy turn into something that translates into professional opportunities. 
+
+A huge departure from past choices. I’m currently learning to be patient and let my natural interests and passions drive my learning/professional development. 
+
 
 ### What Fuels Me
 
