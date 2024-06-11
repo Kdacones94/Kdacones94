@@ -12,7 +12,7 @@ I have a pretty weird set of interests that haven't presented me with a pathway 
         - Public Policy/Law
         - Data Management
         - Data Engineering/Data Analysis
-        - Social Justice 
+        - Restorative Justice 
         - Open Data for Constituents
         - A Desire to Give Back to My Community
 
