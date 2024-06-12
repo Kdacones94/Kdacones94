@@ -19,12 +19,10 @@ I have a pretty weird set of interests that haven't presented me with a pathway 
 Outside of that I am eager to start to change my relationship with open source development by going from consuming the incredible free tools and resources to maintaining and contributing to those same tools. 
 
 ------
-------
 
 ## Currently Working On 
 > Learning new technologies and focusing on rebuilding my foundational skills to not be as domain specific
 
--------
 -------
 
 ## Learning New Skills
@@ -33,7 +31,7 @@ Outside of that I am eager to start to change my relationship with open source d
 ### Topics & Technologies
 
 
-|💻💻💻💻💻|💻💻💻💻💻|💻💻💻💻💻|
+|💻 Learning This |💻 Exploring These |💻 These Too|
 |----------|:-------------:|------:|
 | Productivity Automation |  Python | Automated Configuration |
 | Data Engineering | Data Science    | Database Development |
