@@ -28,15 +28,9 @@ Outside of that I am eager to start to change my relationship with open source d
 
 | Names   | Of            | Technologies |
 |----------|:-------------:|------:|
-| Automation Of Productivity Tools      |  Python |             |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-
-    - Data Engineering
-    - Data Science 
-    - DevOps CI/ Development Setup
-    - 
+| Productivity Automation |  Python | Automated Configuration |
+| Data Engineering | Data Science    | Database Development |
+| Data Artitecture | API Development | Networking Technologies |    |    |  |
 
 #### Projects 
 
