@@ -1,4 +1,4 @@
-## Who I Am/ Background
+## About Me
 
 I’m Kyle Dacones, a hobbyist trying to take something that I enjoy turn into something that translates into professional opportunities. 
 
