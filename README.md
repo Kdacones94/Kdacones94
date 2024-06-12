@@ -9,30 +9,37 @@ A huge departure from past choices. I’m currently learning to be patient and l
 
 I have a pretty weird set of interests that haven't presented me with a pathway for a career utilizing them with my work:
 
-        - Public Policy/Law
-        - Data Management
-        - Data Engineering/Data Analysis
-        - Restorative Justice 
-        - Open Data for Constituents
-        - A Desire to Give Back to My Community
+ - Public Policy/Law
+ - Data Management
+ - Data Engineering/Data Analysis
+ - Restorative Justice 
+ - Open Data for Constituents
+ - A Desire to Give Back to My Community
 
 Outside of that I am eager to start to change my relationship with open source development by going from consuming the incredible free tools and resources to maintaining and contributing to those same tools. 
 
-## Currently Working On 
+------
+------
 
+## Currently Working On 
 > Learning new technologies and focusing on rebuilding my foundational skills to not be as domain specific
 
-### Learning New Skills
+-------
+-------
+
+## Learning New Skills
+
 
 ### Topics & Technologies
 
-| Names   | Of            | Technologies |
+
+|💻💻💻💻💻|💻💻💻💻💻|💻💻💻💻💻|
 |----------|:-------------:|------:|
 | Productivity Automation |  Python | Automated Configuration |
 | Data Engineering | Data Science    | Database Development |
 | Data Artitecture | API Development | Networking Technologies |    |    |  |
 
-#### Projects 
+### Projects 
 
 
 - 📫 How to reach me kyledaconespam@icould.com
