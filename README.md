@@ -5,7 +5,7 @@ I’m Kyle Dacones, a hobbyist trying to take something that I enjoy turn into s
 A huge departure from past choices. I’m currently learning to be patient and let my natural interests and passions drive my learning/professional development. 
 
 
-### A.What Fuels Me
+### What Fuels Me
 
 I have a pretty weird set of interests that haven't presented me with a pathway for a career utilizing them with my work:
 
