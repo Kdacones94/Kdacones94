@@ -1,4 +1,4 @@
-## I. About Me
+## About Me
 
 I’m Kyle Dacones, a hobbyist trying to take something that I enjoy turn into something that translates into professional opportunities. 
 
@@ -20,18 +20,18 @@ Outside of that I am eager to start to change my relationship with open source d
 
 ------
 
-## II. Currently Working On 
+## Currently Working On 
 > Learning new technologies and focusing on rebuilding my foundational skills to not be as domain specific
 
-### A. Current Projects 
+### Current Projects 
 
 
 -------
 
-## III. Learning New Skills
+## Learning New Skills
 
 
-### A. Topics & Technologies
+### Topics & Technologies
 
 
 |💻 Learning This |💻 Exploring These |💻 These Too|
