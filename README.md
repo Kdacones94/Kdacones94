@@ -25,6 +25,8 @@ Outside of that I am eager to start to change my relationship with open source d
 
 ### Current Projects 
 
+- Computational Analysis of a Story to determine a Cipher Key
+- ML Face Detection
 
 -------
 
